@@ -1,0 +1,28 @@
+{
+   "wallpapers":[
+      {
+         "preview_url":"wallpapers/wp1p.jpg",
+         "full_url_1":"wallpapers/wp1f1.jpg"
+      },
+      {
+         "preview_url":"wallpapers/wp2p.jpg",
+         "full_url_1":"wallpapers/wp2f1.jpg"
+      },
+      {
+         "preview_url":"wallpapers/wp3p.jpg",
+         "full_url_1":"wallpapers/wp3f1.jpg"
+      },
+      {
+         "preview_url":"wallpapers/wp4p.jpg",
+         "full_url_1":"wallpapers/wp4f1.jpg"
+      },
+      {
+         "preview_url":"wallpapers/wp5p.jpg",
+         "full_url_1":"wallpapers/wp5f1.jpg"
+      },
+      {
+         "preview_url":"wallpapers/wp6p.jpg",
+         "full_url_1":"wallpapers/wp6f1.jpg"
+      }
+   ]
+}
