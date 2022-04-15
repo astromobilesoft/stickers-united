@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"happyeaster1",
+         "name":"Happy Easter",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"edinsoncavani1",
          "name":"Edinson Cavani",
          "animated_sticker_pack":false,
