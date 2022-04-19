@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"daviddegea1",
+         "name":"David de Gea",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"greenwoodmason1",
+         "name":"Greenwood Mason",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"club2",
          "name":"Club 2",
          "animated_sticker_pack":false,
